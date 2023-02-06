@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DekraVehicle", "DekraVehicle", "{3BC999F0-F8B2-4667-9D7C-BB07FD851728}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DekraVehicle", "DekraVehicle\DekraVehicle.csproj", "{D3F7D07B-D764-4B16-BF1B-394A5A1023FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D3F7D07B-D764-4B16-BF1B-394A5A1023FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3F7D07B-D764-4B16-BF1B-394A5A1023FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3F7D07B-D764-4B16-BF1B-394A5A1023FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3F7D07B-D764-4B16-BF1B-394A5A1023FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{D3F7D07B-D764-4B16-BF1B-394A5A1023FF} = {3BC999F0-F8B2-4667-9D7C-BB07FD851728}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {56942FDF-9B1C-4DD5-AAAF-A345AE6AEC7A}
+	EndGlobalSection
+EndGlobal

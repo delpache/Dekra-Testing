@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DekraPayload", "DekraPayload", "{90A7443F-0875-4B85-BA28-DC55C6544BAE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DekraPayload", "DekraPayload\DekraPayload.csproj", "{12A246FE-45CA-4378-A457-7FC516BDAFBE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{12A246FE-45CA-4378-A457-7FC516BDAFBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12A246FE-45CA-4378-A457-7FC516BDAFBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12A246FE-45CA-4378-A457-7FC516BDAFBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12A246FE-45CA-4378-A457-7FC516BDAFBE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{12A246FE-45CA-4378-A457-7FC516BDAFBE} = {90A7443F-0875-4B85-BA28-DC55C6544BAE}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A70A6CB4-F1A6-4B5D-BE4E-E112B1CA40CA}
+	EndGlobalSection
+EndGlobal

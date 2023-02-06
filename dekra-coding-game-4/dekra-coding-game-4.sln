@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Dekra.Application", "Dekra.Application", "{14EB8EEC-E21D-45E7-B77C-EFCE806D0B2D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Dekra.Domain", "Dekra.Domain", "{CDBFEDC1-EC6F-456C-A5ED-2C396596E74F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Dekra.Infrastructure", "Dekra.Infrastructure", "{59EF1DD1-9A44-4E10-9CA6-028938A47C0E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Dekra.Presentation", "Dekra.Presentation", "{56292C1C-E14F-492D-824B-C89651B7EE5E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dekra.Domain", "Dekra.Domain\Dekra.Domain.csproj", "{DCD63976-BFC5-4504-B681-27EFABD69BAD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DCD63976-BFC5-4504-B681-27EFABD69BAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCD63976-BFC5-4504-B681-27EFABD69BAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCD63976-BFC5-4504-B681-27EFABD69BAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCD63976-BFC5-4504-B681-27EFABD69BAD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{DCD63976-BFC5-4504-B681-27EFABD69BAD} = {CDBFEDC1-EC6F-456C-A5ED-2C396596E74F}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B2E23F10-931F-4AFD-B168-397C7FD490AF}
+	EndGlobalSection
+EndGlobal
